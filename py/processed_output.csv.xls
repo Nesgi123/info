@@ -1,0 +1,5 @@
+Text,Label,Cleaned_Text,Processed_Text,Encoded_Label
+"I love NLP, Deep Learning, and Machine Learning also!",Positive,i love nlp deep learning and machine learning also,love nlp deep learning machine learning also,1
+This is a very bad product.,Negative,this is a very bad product,bad product,0
+Natural Language Processing is a mind blowing technology.,Positive,natural language processing is a mind blowing technology,natural language processing mind blowing technology,1
+I hate spam emails and calls.,Negative,i hate spam emails and calls,hate spam email call,0
